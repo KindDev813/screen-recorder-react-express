@@ -1,1 +1,1 @@
-# JavaScript (React + Express) Screen Recording App :metal:
+# Screen Recording App by Benjamin :metal:
