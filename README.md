@@ -1,1 +1,1 @@
-# Screen Recording App by Benjamin :metal:
+# Screen Recording App by kindDev0813 :metal:
